@@ -1,2 +1,2 @@
 # blogs
->>> daily blogs. keeping straightforward 
+> daily blogs. keeping straightforward 
